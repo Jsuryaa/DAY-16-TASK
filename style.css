@@ -1,0 +1,19 @@
+html {
+  display: flex;
+  justify-content: center;
+ 
+}
+body {
+  font-family: 'Times New Roman', Times, serif;
+
+  
+}
+#countdown{
+  align-items: center;
+  color: blueviolet;
+  
+}
+h1 {
+
+  color: blue;
+}
